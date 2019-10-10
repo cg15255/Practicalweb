@@ -10,13 +10,22 @@
     "gatsby-plugin-manifest": "^2.2.18",
     "gatsby-plugin-offline": "^3.0.9",
     "gatsby-plugin-react-helmet": "^3.1.8",
-    "gatsby-plugin-sharp": "^2.2.25",
+    "gatsby-plugin-sharp": "^2.2.27",
+    "gatsby-plugin-smoothscroll": "^1.0.3",
+    "gatsby-plugin-styled-components": "^3.1.9",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-remark-images": "^3.1.25",
     "gatsby-source-filesystem": "^2.1.26",
+    "gatsby-transformer-remark": "^2.6.26",
     "gatsby-transformer-sharp": "^2.2.17",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "react-icons": "^3.7.0",
+    "react-scroll": "^1.7.14",
+    "react-scrollspy": "^3.4.0",
+    "styled-components": "^4.4.0"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
