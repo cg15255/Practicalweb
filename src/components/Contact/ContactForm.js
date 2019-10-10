@@ -8,7 +8,7 @@ const ContactForm = () => {
       name="contact"
       method="POST"
       data-netlify="true"
-      action="/"
+      action="/success"
     >
       <div className="grid-row-1">
         <div className="formgroup">
