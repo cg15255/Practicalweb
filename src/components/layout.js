@@ -23,7 +23,6 @@ const LayoutWrapper = styled.div`
   }
   @media (max-width: 1100px) {
     grid-template-columns: 1fr
-    max-width: 100vw;
   }
 `
 
